@@ -5,12 +5,13 @@
 ---
 
 ```
-    npm install -g consolemessage
+npm install -g consolemessage
 ```
 
 
 ### include in you javascript file
 ```
+// yourfile.js
 
 var console = require('consolemessage');
 
@@ -19,8 +20,8 @@ console.log('info message', 'info');
 console.log('warning message', 'warning');
 console.log('error message', 'error');
 console.log('critical message', 'critical');
-consol.log('normal message');
+console.log('normal message');
 ```
 
-#### @github/[colored-log](https://github.com/Lakkanna/colored-log)
-#### @credits colors 
+#### [github.com/lakkanna/colored-log](https://github.com/Lakkanna/colored-log)
+#### @credits [colors](https://www.npmjs.com/package/colors) 
