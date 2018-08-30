@@ -1,6 +1,6 @@
 # consolemessage javascript library 
 [![version](https://img.shields.io/npm/v/consolemessage.svg)](https://www.npmjs.org/package/consolemessage)
-### Javascript library to write colored logs on console. You can find more about this in [npm](https://www.npmjs.com/package/consolemessage)
+### Javascript library to write colored logs on console. You can find more about this in [npm.](https://www.npmjs.com/package/consolemessage)
 
 ---
 
