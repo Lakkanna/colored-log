@@ -1,6 +1,12 @@
 # consolemessage for print log in console
 
-### Helps to easily identify the log.
+### Javascript library to write colored logs on console. You can find more about [here](https://www.npmjs.com/package/consolemessage)
+
+---
+```
+    npm install -g consolemessage
+    
+```
 
 ## include in you javascript file
 ```
