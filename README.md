@@ -1,8 +1,10 @@
 # consolemessage for print log in console
 
+## npm install -g [consolemessage] (https://www.npmjs.com/package/consolemessage)
+
 ### Helps to easily identify the log.
 
-## include in you javascript file
+### include in you javascript file
 ```
 
 var console = require('consolemessage');
