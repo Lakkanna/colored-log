@@ -1,0 +1,26 @@
+{
+  "name": "consolemessage",
+  "version": "1.0.6",
+  "description": "Prints the message in console",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "console-message"
+  ],
+  "author": "Lakkanna.Walikar <lakkanna.walikar@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.3.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lakkanna/colored-log.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Lakkanna/colored-log/issues"
+  },
+  "homepage": "https://github.com/Lakkanna/colored-log#readme"
+}
