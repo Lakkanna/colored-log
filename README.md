@@ -1,6 +1,6 @@
 # consolemessage javascript library 
 
-### Javascript library to write colored logs on console. You can find more about [here](https://www.npmjs.com/package/consolemessage)
+### Javascript library to write colored logs on console. You can find more about this in [npm](https://www.npmjs.com/package/consolemessage)
 
 ---
 
@@ -15,11 +15,12 @@ npm install -g consolemessage
 
 var console = require('consolemessage');
 
-console.log('debug message', 'debug');
-console.log('info message', 'info');
-console.log('warning message', 'warning');
-console.log('error message', 'error');
-console.log('critical message', 'critical');
+console.log('success message', SUCCESS);
+console.log('debug message', DEBUG);
+console.log('info message', INFO);
+console.log('warning message', WARNING);
+console.log('error message', ERROR);
+console.log('critical message', CRITICAL);
 console.log('normal message');
 ```
 

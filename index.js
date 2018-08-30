@@ -2,7 +2,11 @@ var colors = require('colors');
 // debug, info, warning, error, critical
 
 DEBUG = 'debug';
-
+INFO = 'info';
+WARNING = 'warning';
+ERROR = 'error';
+CRITICAL = 'critical';
+SUCCESS = 'success';
 
 exports.log = function(message, flag) {
     switch (flag) {
