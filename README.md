@@ -6,7 +6,6 @@
 
 ```
     npm install -g consolemessage
-    
 ```
 
 
@@ -23,5 +22,5 @@ console.log('critical message', 'critical');
 consol.log('normal message');
 ```
 
-#### @github/[colered-log](https://github.com/Lakkanna/colored-log)
+#### @github/[colored-log](https://github.com/Lakkanna/colored-log)
 #### @credits colors 
