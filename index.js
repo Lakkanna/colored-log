@@ -26,7 +26,7 @@ exports.log = function(message, flag) {
             console.log(message.red);
             break;
         case 'critical':
-            console.log(message.red);
+            console.log(message.magenta);
             break;
         default:
             console.log(message);

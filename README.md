@@ -20,7 +20,7 @@ console.log('debug message', DEBUG);        // Grey color
 console.log('info message', INFO);          // Blue color
 console.log('warning message', WARNING);    // Yellow color
 console.log('error message', ERROR);        // Red color
-console.log('critical message', CRITICAL);  // Red color
+console.log('critical message', CRITICAL);  // Magenta color
 console.log('normal message');              // Black color
 ```
 
