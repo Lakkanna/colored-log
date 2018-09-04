@@ -24,5 +24,9 @@ console.log('critical message', CRITICAL);  // Magenta color
 console.log('normal message');              // Black color
 ```
 
+# License
+MIT
+
+
 #### [github.com/lakkanna/colored-log](https://github.com/Lakkanna/colored-log)
 #### @credits [colors](https://www.npmjs.com/package/colors) 
