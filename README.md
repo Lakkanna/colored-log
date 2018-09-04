@@ -15,12 +15,12 @@ npm install -g consolemessage
 
 var console = require('consolemessage');
 
-console.log('success message', SUCCESS);    // Green color
-console.log('debug message', DEBUG);        // Grey color
-console.log('info message', INFO);          // Blue color
-console.log('warning message', WARNING);    // Yellow color
-console.log('error message', ERROR);        // Red color
-console.log('critical message', CRITICAL);  // Magenta color
+console.log('success message', conosle.success);    // Green color
+console.log('debug message', console.debug);        // Grey color
+console.log('info message', console.info);          // Blue color
+console.log('warning message', console.warning);    // Yellow color
+console.log('error message', console.error);        // Red color
+console.log('critical message', console.critical);  // Magenta color
 console.log('normal message');              // Black color
 ```
 
